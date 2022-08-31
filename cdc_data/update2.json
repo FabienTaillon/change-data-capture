@@ -1,0 +1,25 @@
+{
+    "data": {
+      "schema": "h76eneFyyiFHdeNFo1wyCA",
+      "payload": {
+        "LastModifiedDate": "2022-08-31T12:15:06Z",
+        "Email": null,
+        "User__c": "0050R00000DMeEyQAL",
+        "ChangeEventHeader": {
+          "commitNumber": 11071200432041,
+          "commitUser": "0050R00000DMbe6QAD",
+          "sequenceNumber": 1,
+          "entityName": "Contact",
+          "changeType": "UPDATE",
+          "changedFields": ["Email", "LastModifiedDate", "User__c"],
+          "changeOrigin": "com/salesforce/api/soap/55.0;client=SfdcInternalAPI/",
+          "transactionKey": "0002bdc0-e7e9-5cdc-add9-584868bee487",
+          "commitTimestamp": 1661948106000,
+          "recordIds": ["0030R00001PKBmNQAX"]
+        }
+      },
+      "event": { "replayId": 21368523 }
+    },
+    "channel": "/data/ContactChangeEvent"
+}
+  

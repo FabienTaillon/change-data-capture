@@ -1,0 +1,16 @@
+{
+    "data": {
+      "schema": "6p35DeOvpPRB7kQZsxKwfg",
+      "payload": {
+        "Email_New__c": "fabien.taillon@texei.com",
+        "CreatedById": "0050R00000DMbe6QAD",
+        "CreatedDate": "2022-08-31T12:48:12Z",
+        "SalesforceId__c": "0050R00000DMeEyQAL",
+        "Email_Old__c": "fabien@texei.com",
+        "FederationId__c": ""
+      },
+      "event": { "replayId": 1599882 }
+    },
+    "channel": "/event/UserCreateUpdate__e"
+}
+  

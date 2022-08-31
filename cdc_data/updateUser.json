@@ -1,0 +1,24 @@
+{
+    "data": {
+      "schema": "T0_0xiV_I5YBFiw1zidg7g",
+      "payload": {
+        "LastModifiedDate": "2022-08-31T12:43:37Z",
+        "FederationIdentifier": "MyFederationId",
+        "ChangeEventHeader": {
+          "commitNumber": 11071211938675,
+          "commitUser": "0050R00000DMbe6QAD",
+          "sequenceNumber": 1,
+          "entityName": "User",
+          "changeType": "UPDATE",
+          "changedFields": ["LastModifiedDate", "FederationIdentifier"],
+          "changeOrigin": "",
+          "transactionKey": "00027d20-2e09-3f4f-cc74-feec1088e16b",
+          "commitTimestamp": 1661949817000,
+          "recordIds": ["0050R00000DMbe6QAD"]
+        }
+      },
+      "event": { "replayId": 21368528 }
+    },
+    "channel": "/data/UserChangeEvent"
+}
+  

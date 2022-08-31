@@ -1,0 +1,22 @@
+{
+    "data": {
+      "schema": "yixMaDcxwL2K_5iCs6WcYg",
+      "payload": {
+        "ChangeEventHeader": {
+          "commitNumber": 11071193914527,
+          "commitUser": "0050R00000DMbe6QAD",
+          "sequenceNumber": 1,
+          "entityName": "Contact",
+          "changeType": "DELETE",
+          "changedFields": [],
+          "changeOrigin": "com/salesforce/api/soap/55.0;client=SfdcInternalAPI/",
+          "transactionKey": "0002bcdb-aaf6-bda5-1b62-6232b152f7fb",
+          "commitTimestamp": 1661947122000,
+          "recordIds": ["0030R00001PKBmIQAX"]
+        }
+      },
+      "event": { "replayId": 21368517 }
+    },
+    "channel": "/data/ContactChangeEvent"
+}
+  

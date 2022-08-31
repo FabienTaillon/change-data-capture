@@ -1,0 +1,24 @@
+{
+    "data": {
+      "schema": "yixMaDcxwL2K_5iCs6WcYg",
+      "payload": {
+        "LastModifiedDate": "2022-08-31T12:00:31Z",
+        "Email": "fabien@texei.com",
+        "ChangeEventHeader": {
+          "commitNumber": 11071194568774,
+          "commitUser": "0050R00000DMbe6QAD",
+          "sequenceNumber": 1,
+          "entityName": "Contact",
+          "changeType": "UPDATE",
+          "changedFields": ["Email", "LastModifiedDate"],
+          "changeOrigin": "com/salesforce/api/soap/55.0;client=SfdcInternalAPI/",
+          "transactionKey": "0002bcf5-0764-0de3-e83d-c2ef943f424a",
+          "commitTimestamp": 1661947231000,
+          "recordIds": ["0030R00001PKBmNQAX"]
+        }
+      },
+      "event": { "replayId": 21368519 }
+    },
+    "channel": "/data/ContactChangeEvent"
+}
+  
